@@ -1,0 +1,192 @@
+{
+  "uid" : "57a4c9706f4d54a8",
+  "name" : "Verify Our Technology tab content",
+  "fullName" : "Verify the Welcomepage content - test suite.Verify Our Technology tab content",
+  "historyId" : "8e61cc282c53d592a6133a12cb92eb75",
+  "time" : {
+    "start" : 1632756956894,
+    "stop" : 1632756958658,
+    "duration" : 1764
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Performed click operation on Our Technology",
+      "time" : {
+        "start" : 1632756957361,
+        "stop" : 1632756957361,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Cognitive. Predictive. Powerful Products x Platforms x Hyperautomation. We take companies from industry average to brand celebrity.",
+      "time" : {
+        "start" : 1632756958658,
+        "stop" : 1632756958658,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Our Technology tab content"
+  }, {
+    "name" : "package",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.82"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3e3c8c0598208461",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632732167471,
+        "stop" : 1632732170137,
+        "duration" : 2666
+      }
+    }, {
+      "uid" : "72ca38284ba27e9a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632726458681,
+        "stop" : 1632726460692,
+        "duration" : 2011
+      }
+    }, {
+      "uid" : "f0c67fa43b85dbb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632724620456,
+        "stop" : 1632724622277,
+        "duration" : 1821
+      }
+    }, {
+      "uid" : "bd99b9db690a3dea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632723185995,
+        "stop" : 1632723187819,
+        "duration" : 1824
+      }
+    }, {
+      "uid" : "d4fdf11adb698fd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632721200578,
+        "stop" : 1632721202183,
+        "duration" : 1605
+      }
+    }, {
+      "uid" : "b56476dc32b10b02",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632720899006,
+        "stop" : 1632720900758,
+        "duration" : 1752
+      }
+    }, {
+      "uid" : "6834397e5c209e1b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632718987106,
+        "stop" : 1632718988787,
+        "duration" : 1681
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "4ca48e58ff5bbb7d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1632732167471,
+          "stop" : 1632732170137,
+          "duration" : 2666
+        }
+      }, {
+        "uid" : "36efaebb8a22a35e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1632726458681,
+          "stop" : 1632726460692,
+          "duration" : 2011
+        }
+      }, {
+        "uid" : "5f6b62919e0be08d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1632724620456,
+          "stop" : 1632724622277,
+          "duration" : 1821
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "57a4c9706f4d54a8.json",
+  "parameterValues" : [ "chrome-93.0.4577.82" ]
+}

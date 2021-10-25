@@ -1,0 +1,184 @@
+{
+  "uid" : "cacb521cb3d4d52b",
+  "name" : "Submit contact us form",
+  "fullName" : "Contact Us - test suite.Submit contact us form",
+  "historyId" : "e947192c1a3e7e6fdcab857d661e2450",
+  "time" : {
+    "start" : 1633069807304,
+    "stop" : 1633069810059,
+    "duration" : 2755
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Enered text \"test@sutherlandglobal.com\" in text field",
+      "time" : {
+        "start" : 1633069807820,
+        "stop" : 1633069807820,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Enered text \"sutherland global\" in text field",
+      "time" : {
+        "start" : 1633069808193,
+        "stop" : 1633069808193,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Enered text \"COE\" in text field",
+      "time" : {
+        "start" : 1633069808502,
+        "stop" : 1633069808502,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Enered text \"sutherland\" in text field",
+      "time" : {
+        "start" : 1633069808880,
+        "stop" : 1633069808880,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Enered text \"1234567890\" in text field",
+      "time" : {
+        "start" : 1633069809250,
+        "stop" : 1633069809250,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on ",
+      "time" : {
+        "start" : 1633069809567,
+        "stop" : 1633069809567,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Enered text \"sutherland global AI-Powered automation team\" in text field",
+      "time" : {
+        "start" : 1633069810059,
+        "stop" : 1633069810059,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 7,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Contact Us - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Contact Us - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Submit contact us form"
+  }, {
+    "name" : "package",
+    "value" : "Contact Us - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ {
+      "uid" : "4aee1dd788360137",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633006452507,
+        "stop" : 1633006455807,
+        "duration" : 3300
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cacb521cb3d4d52b.json",
+  "parameterValues" : [ "chrome-94.0.4606.61" ]
+}
