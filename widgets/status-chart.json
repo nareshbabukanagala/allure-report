@@ -1,0 +1,171 @@
+[ {
+  "uid" : "c2707c9e89609e07",
+  "name" : "Verify the Transformative Culture tab content",
+  "time" : {
+    "start" : 1632756962737,
+    "stop" : 1632756965657,
+    "duration" : 2920
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e09c8ef9dcf8b95",
+  "name" : "Verify the Process Excellence tab content",
+  "time" : {
+    "start" : 1632756961461,
+    "stop" : 1632756962736,
+    "duration" : 1275
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c948540b72c85f1",
+  "name" : "Submit contact us form",
+  "time" : {
+    "start" : 1633069807304,
+    "stop" : 1633069810059,
+    "duration" : 2755
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "9b47645b1d00f68e",
+  "name" : "Verify Behind the Experience tab content",
+  "time" : {
+    "start" : 1632756956372,
+    "stop" : 1632756956894,
+    "duration" : 522
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c215e7a65f574422",
+  "name" : "Perform Search operation in careers portal",
+  "time" : {
+    "start" : 1632757031995,
+    "stop" : 1632757037822,
+    "duration" : 5827
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "f7696695e25d1409",
+  "name" : "Select first Job from results and apply",
+  "time" : {
+    "start" : 1632757037822,
+    "stop" : 1632757056930,
+    "duration" : 19108
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "67ec1419fe730ab",
+  "name" : "Verify The Multiplier Effect tab content",
+  "time" : {
+    "start" : 1632756960083,
+    "stop" : 1632756960863,
+    "duration" : 780
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f8fc4fadf9017b98",
+  "name" : "Navigate to contact us page",
+  "time" : {
+    "start" : 1632911925420,
+    "stop" : 1632911939767,
+    "duration" : 14347
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "da6b3ee8638b8b52",
+  "name" : "Verify Analytics x AI tab content",
+  "time" : {
+    "start" : 1632756960864,
+    "stop" : 1632756961461,
+    "duration" : 597
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f698a00a53c3fba7",
+  "name" : "Navigate to contact us page",
+  "time" : {
+    "start" : 1633069788201,
+    "stop" : 1633069807303,
+    "duration" : 19102
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "3318ff2fb8ec1358",
+  "name" : "Verify Humanizing Digital tab content",
+  "time" : {
+    "start" : 1632756947277,
+    "stop" : 1632756956371,
+    "duration" : 9094
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ba02d8b377654a7",
+  "name" : "Verify Our Technology tab content",
+  "time" : {
+    "start" : 1632756956894,
+    "stop" : 1632756958658,
+    "duration" : 1764
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc616781419347a6",
+  "name" : "Submit contact us form",
+  "time" : {
+    "start" : 1632911939768,
+    "stop" : 1632911942313,
+    "duration" : 2545
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "c96570b49ecf36db",
+  "name" : "Navigate to contact us page",
+  "time" : {
+    "start" : 1635947106863,
+    "stop" : 1635947119063,
+    "duration" : 12200
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "8a92d559ed654a4a",
+  "name" : "Navigate to Careers page",
+  "time" : {
+    "start" : 1632757001269,
+    "stop" : 1632757031994,
+    "duration" : 30725
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b4364840030062",
+  "name" : "Verify The Customer tab content",
+  "time" : {
+    "start" : 1632756958659,
+    "stop" : 1632756960083,
+    "duration" : 1424
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "df3ff6bcec343644",
+  "name" : "Submit contact us form",
+  "time" : {
+    "start" : 1635947119064,
+    "stop" : 1635947121832,
+    "duration" : 2768
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]
