@@ -1,95 +1,5 @@
 [ {
-  "uid" : "474223a36631256f",
-  "name" : "Verify Humanizing Digital tab content",
-  "time" : {
-    "start" : 1632756947277,
-    "stop" : 1632756956371,
-    "duration" : 9094
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "60052bd1293ab19b",
-  "name" : "Navigate to contact us page",
-  "time" : {
-    "start" : 1632911925420,
-    "stop" : 1632911939767,
-    "duration" : 14347
-  },
-  "status" : "passed",
-  "severity" : "critical"
-}, {
-  "uid" : "a8ce9a01057293d5",
-  "name" : "Submit contact us form",
-  "time" : {
-    "start" : 1633069807304,
-    "stop" : 1633069810059,
-    "duration" : 2755
-  },
-  "status" : "passed",
-  "severity" : "blocker"
-}, {
-  "uid" : "9bbfb332857d9f1f",
-  "name" : "Verify the Process Excellence tab content",
-  "time" : {
-    "start" : 1632756961461,
-    "stop" : 1632756962736,
-    "duration" : 1275
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6a8e138d7e600b85",
-  "name" : "Submit contact us form",
-  "time" : {
-    "start" : 1635950212700,
-    "stop" : 1635950214887,
-    "duration" : 2187
-  },
-  "status" : "passed",
-  "severity" : "blocker"
-}, {
-  "uid" : "6876a68b176c27ed",
-  "name" : "Perform Search operation in careers portal",
-  "time" : {
-    "start" : 1632757031995,
-    "stop" : 1632757037822,
-    "duration" : 5827
-  },
-  "status" : "passed",
-  "severity" : "critical"
-}, {
-  "uid" : "82f2cc5aa97d3046",
-  "name" : "Select first Job from results and apply",
-  "time" : {
-    "start" : 1632757037822,
-    "stop" : 1632757056930,
-    "duration" : 19108
-  },
-  "status" : "passed",
-  "severity" : "critical"
-}, {
-  "uid" : "91341fb0b70be9d1",
-  "name" : "Submit contact us form",
-  "time" : {
-    "start" : 1632911939768,
-    "stop" : 1632911942313,
-    "duration" : 2545
-  },
-  "status" : "passed",
-  "severity" : "blocker"
-}, {
-  "uid" : "211f3f14b91697f4",
-  "name" : "Navigate to contact us page",
-  "time" : {
-    "start" : 1635950199483,
-    "stop" : 1635950212698,
-    "duration" : 13215
-  },
-  "status" : "passed",
-  "severity" : "critical"
-}, {
-  "uid" : "9a29cc52cae61d47",
+  "uid" : "aa541bbe1b2549b0",
   "name" : "Verify Our Technology tab content",
   "time" : {
     "start" : 1632756956894,
@@ -99,47 +9,17 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "25e5482450cd8f28",
-  "name" : "Navigate to contact us page",
+  "uid" : "bc5a7e4922eeee73",
+  "name" : "Verify Humanizing Digital tab content",
   "time" : {
-    "start" : 1633069788201,
-    "stop" : 1633069807303,
-    "duration" : 19102
-  },
-  "status" : "passed",
-  "severity" : "critical"
-}, {
-  "uid" : "aee13834e829be83",
-  "name" : "Navigate to Careers page",
-  "time" : {
-    "start" : 1632757001269,
-    "stop" : 1632757031994,
-    "duration" : 30725
+    "start" : 1632756947277,
+    "stop" : 1632756956371,
+    "duration" : 9094
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "6fefb97a9498c884",
-  "name" : "Verify Behind the Experience tab content",
-  "time" : {
-    "start" : 1632756956372,
-    "stop" : 1632756956894,
-    "duration" : 522
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f67b13d548a36496",
-  "name" : "Verify The Multiplier Effect tab content",
-  "time" : {
-    "start" : 1632756960083,
-    "stop" : 1632756960863,
-    "duration" : 780
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3cc6b5ab5bb2fb9e",
+  "uid" : "617aa15f07c16144",
   "name" : "Verify Analytics x AI tab content",
   "time" : {
     "start" : 1632756960864,
@@ -149,7 +29,37 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "6883ff970a03690a",
+  "uid" : "af156d86fce780a3",
+  "name" : "Select first Job from results and apply",
+  "time" : {
+    "start" : 1632757037822,
+    "stop" : 1632757056930,
+    "duration" : 19108
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "e6e0dcff39757881",
+  "name" : "Submit contact us form",
+  "time" : {
+    "start" : 1632911939768,
+    "stop" : 1632911942313,
+    "duration" : 2545
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "455f0efdd9afa06a",
+  "name" : "Perform Search operation in careers portal",
+  "time" : {
+    "start" : 1632757031995,
+    "stop" : 1632757037822,
+    "duration" : 5827
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "eb13581e317169ed",
   "name" : "Verify The Customer tab content",
   "time" : {
     "start" : 1632756958659,
@@ -159,7 +69,17 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "d7eb2bda0f20e1ca",
+  "uid" : "496cf1f246674277",
+  "name" : "Navigate to contact us page",
+  "time" : {
+    "start" : 1633069788201,
+    "stop" : 1633069807303,
+    "duration" : 19102
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "2a58ac59c4159a4c",
   "name" : "Verify the Transformative Culture tab content",
   "time" : {
     "start" : 1632756962737,
@@ -168,4 +88,84 @@
   },
   "status" : "failed",
   "severity" : "normal"
+}, {
+  "uid" : "7385f9ffac76367b",
+  "name" : "Navigate to contact us page",
+  "time" : {
+    "start" : 1635950726452,
+    "stop" : 1635950732043,
+    "duration" : 5591
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "ad30280c8d654f17",
+  "name" : "Verify The Multiplier Effect tab content",
+  "time" : {
+    "start" : 1632756960083,
+    "stop" : 1632756960863,
+    "duration" : 780
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "79fded5b69c53811",
+  "name" : "Verify Behind the Experience tab content",
+  "time" : {
+    "start" : 1632756956372,
+    "stop" : 1632756956894,
+    "duration" : 522
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "46c64204b390218e",
+  "name" : "Submit contact us form",
+  "time" : {
+    "start" : 1633069807304,
+    "stop" : 1633069810059,
+    "duration" : 2755
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "2a5f9c6dc3663c02",
+  "name" : "Navigate to contact us page",
+  "time" : {
+    "start" : 1632911925420,
+    "stop" : 1632911939767,
+    "duration" : 14347
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "7651b433fd3bb8bb",
+  "name" : "Verify the Process Excellence tab content",
+  "time" : {
+    "start" : 1632756961461,
+    "stop" : 1632756962736,
+    "duration" : 1275
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7758edc41d39e79b",
+  "name" : "Navigate to Careers page",
+  "time" : {
+    "start" : 1632757001269,
+    "stop" : 1632757031994,
+    "duration" : 30725
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c66e87748789b45b",
+  "name" : "Submit contact us form",
+  "time" : {
+    "start" : 1635950732043,
+    "stop" : 1635950733610,
+    "duration" : 1567
+  },
+  "status" : "passed",
+  "severity" : "blocker"
 } ]

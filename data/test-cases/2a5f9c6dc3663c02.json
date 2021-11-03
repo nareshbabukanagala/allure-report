@@ -1,0 +1,161 @@
+{
+  "uid" : "2a5f9c6dc3663c02",
+  "name" : "Navigate to contact us page",
+  "fullName" : "Contact Us - test suite.Navigate to contact us page",
+  "historyId" : "a48cf96e059a6ebd76fb0f5c55d1ccfa",
+  "time" : {
+    "start" : 1632911925420,
+    "stop" : 1632911939767,
+    "duration" : 14347
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Performed click operation on Contact",
+      "time" : {
+        "start" : 1632911939765,
+        "stop" : 1632911939765,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Contact Us - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Contact Us - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Navigate to contact us page"
+  }, {
+    "name" : "package",
+    "value" : "Contact Us - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.82"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ {
+      "uid" : "2cc17edc734cdf90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632910985769,
+        "stop" : 1632911000925,
+        "duration" : 15156
+      }
+    }, {
+      "uid" : "6c5cf2ec91398460",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632756976777,
+        "stop" : 1632756988467,
+        "duration" : 11690
+      }
+    }, {
+      "uid" : "ad9c81fda602b27e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632753307505,
+        "stop" : 1632753321963,
+        "duration" : 14458
+      }
+    }, {
+      "uid" : "e0b11d1846959045",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632732194354,
+        "stop" : 1632732208173,
+        "duration" : 13819
+      }
+    }, {
+      "uid" : "bec28c6e1972f48d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632724633774,
+        "stop" : 1632724645239,
+        "duration" : 11465
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "1a2d233ff4ea21cf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1632732194354,
+          "stop" : 1632732208173,
+          "duration" : 13819
+        }
+      }, {
+        "uid" : "29f420ad33ca3a82",
+        "status" : "passed",
+        "time" : {
+          "start" : 1632724633774,
+          "stop" : 1632724645239,
+          "duration" : 11465
+        }
+      }, {
+        "uid" : "f786cc9e697e7afb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1632724633774,
+          "stop" : 1632724645239,
+          "duration" : 11465
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "2a5f9c6dc3663c02.json",
+  "parameterValues" : [ "chrome-93.0.4577.82" ]
+}

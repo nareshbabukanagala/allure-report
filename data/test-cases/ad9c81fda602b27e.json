@@ -1,0 +1,84 @@
+{
+  "uid" : "ad9c81fda602b27e",
+  "name" : "Navigate to contact us page",
+  "fullName" : "Contact Us - test suite.Navigate to contact us page",
+  "historyId" : "a48cf96e059a6ebd76fb0f5c55d1ccfa",
+  "time" : {
+    "start" : 1632753307505,
+    "stop" : 1632753321963,
+    "duration" : 14458
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Performed click operation on Contact",
+      "time" : {
+        "start" : 1632753321959,
+        "stop" : 1632753321961,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Contact Us - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Contact Us - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Navigate to contact us page"
+  }, {
+    "name" : "package",
+    "value" : "Contact Us - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.82"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ad9c81fda602b27e.json",
+  "parameterValues" : [ "chrome-93.0.4577.82" ]
+}

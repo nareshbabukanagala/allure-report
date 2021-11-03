@@ -1,0 +1,251 @@
+{
+  "uid" : "e6e0dcff39757881",
+  "name" : "Submit contact us form",
+  "fullName" : "Contact Us - test suite.Submit contact us form",
+  "historyId" : "cf9493e9da098c8851f544d93a274643",
+  "time" : {
+    "start" : 1632911939768,
+    "stop" : 1632911942313,
+    "duration" : 2545
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Enered text \"test@sutherlandglobal.com\" in text field",
+      "time" : {
+        "start" : 1632911940260,
+        "stop" : 1632911940260,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Enered text \"sutherland global\" in text field",
+      "time" : {
+        "start" : 1632911940633,
+        "stop" : 1632911940633,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Enered text \"COE\" in text field",
+      "time" : {
+        "start" : 1632911940908,
+        "stop" : 1632911940908,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Enered text \"sutherland\" in text field",
+      "time" : {
+        "start" : 1632911941256,
+        "stop" : 1632911941256,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Enered text \"1234567890\" in text field",
+      "time" : {
+        "start" : 1632911941577,
+        "stop" : 1632911941577,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on ",
+      "time" : {
+        "start" : 1632911941831,
+        "stop" : 1632911941831,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Enered text \"sutherland global AI-Powered automation team\" in text field",
+      "time" : {
+        "start" : 1632911942312,
+        "stop" : 1632911942312,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 7,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Contact Us - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Contact Us - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Submit contact us form"
+  }, {
+    "name" : "package",
+    "value" : "Contact Us - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.82"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ {
+      "uid" : "991afdc9f888f424",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632911000926,
+        "stop" : 1632911003144,
+        "duration" : 2218
+      }
+    }, {
+      "uid" : "3affbbc27093088a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632756988468,
+        "stop" : 1632756991162,
+        "duration" : 2694
+      }
+    }, {
+      "uid" : "9f04b98a4187680a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632753321963,
+        "stop" : 1632753324885,
+        "duration" : 2922
+      }
+    }, {
+      "uid" : "ef20fc8fbb85b538",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632732208174,
+        "stop" : 1632732212254,
+        "duration" : 4080
+      }
+    }, {
+      "uid" : "1a25994bf722a295",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632724645240,
+        "stop" : 1632724647159,
+        "duration" : 1919
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "12dc818b78cf6fa8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1632732208174,
+          "stop" : 1632732212254,
+          "duration" : 4080
+        }
+      }, {
+        "uid" : "b60c0f6321d64820",
+        "status" : "passed",
+        "time" : {
+          "start" : 1632724645240,
+          "stop" : 1632724647159,
+          "duration" : 1919
+        }
+      }, {
+        "uid" : "85f3a8958f959f79",
+        "status" : "passed",
+        "time" : {
+          "start" : 1632724645240,
+          "stop" : 1632724647159,
+          "duration" : 1919
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "e6e0dcff39757881.json",
+  "parameterValues" : [ "chrome-93.0.4577.82" ]
+}

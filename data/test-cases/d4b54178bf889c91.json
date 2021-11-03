@@ -1,0 +1,99 @@
+{
+  "uid" : "d4b54178bf889c91",
+  "name" : "Verify Behind the Experience tab content",
+  "fullName" : "Verify the Welcomepage content - test suite.Verify Behind the Experience tab content",
+  "historyId" : "473018d4ffbdb38d0d68edd47ebb4b72",
+  "time" : {
+    "start" : 1632732166373,
+    "stop" : 1632732167471,
+    "duration" : 1098
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Performed click operation on Behind the Experience",
+      "time" : {
+        "start" : 1632732167036,
+        "stop" : 1632732167036,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : We work hard to make your experience look easy.",
+      "time" : {
+        "start" : 1632732167470,
+        "stop" : 1632732167470,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Behind the Experience tab content"
+  }, {
+    "name" : "package",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.82"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d4b54178bf889c91.json",
+  "parameterValues" : [ "chrome-93.0.4577.82" ]
+}

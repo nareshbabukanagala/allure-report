@@ -1,0 +1,99 @@
+{
+  "uid" : "45d646057b54585e",
+  "name" : "Verify Our Technology tab content",
+  "fullName" : "Verify the Welcomepage content - test suite.Verify Our Technology tab content",
+  "historyId" : "8e61cc282c53d592a6133a12cb92eb75",
+  "time" : {
+    "start" : 1632724620456,
+    "stop" : 1632724622277,
+    "duration" : 1821
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Performed click operation on Our Technology",
+      "time" : {
+        "start" : 1632724620945,
+        "stop" : 1632724620945,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Cognitive. Predictive. Powerful Products x Platforms x Hyperautomation. We take companies from industry average to brand celebrity.",
+      "time" : {
+        "start" : 1632724622277,
+        "stop" : 1632724622277,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Our Technology tab content"
+  }, {
+    "name" : "package",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.82"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "45d646057b54585e.json",
+  "parameterValues" : [ "chrome-93.0.4577.82" ]
+}

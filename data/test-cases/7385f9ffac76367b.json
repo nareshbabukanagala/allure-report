@@ -1,0 +1,61 @@
+{
+  "uid" : "7385f9ffac76367b",
+  "name" : "Navigate to contact us page",
+  "fullName" : "Contact Us - test suite.Navigate to contact us page",
+  "historyId" : "faa5d37e97eae111e6ce0a9f0de8f9f2",
+  "time" : {
+    "start" : 1635950726452,
+    "stop" : 1635950732043,
+    "duration" : 5591
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Contact Us - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Contact Us - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Navigate to contact us page"
+  }, {
+    "name" : "package",
+    "value" : "Contact Us - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-95.0.4638.69"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7385f9ffac76367b.json",
+  "parameterValues" : [ "chrome-95.0.4638.69" ]
+}

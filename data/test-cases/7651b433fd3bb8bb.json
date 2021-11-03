@@ -1,0 +1,192 @@
+{
+  "uid" : "7651b433fd3bb8bb",
+  "name" : "Verify the Process Excellence tab content",
+  "fullName" : "Verify the Welcomepage content - test suite.Verify the Process Excellence tab content",
+  "historyId" : "9f0721807d65fb048b5dd5204588bb0",
+  "time" : {
+    "start" : 1632756961461,
+    "stop" : 1632756962736,
+    "duration" : 1275
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Performed click operation on Process Excellence",
+      "time" : {
+        "start" : 1632756962002,
+        "stop" : 1632756962002,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Business processes elevate brand experiences.",
+      "time" : {
+        "start" : 1632756962736,
+        "stop" : 1632756962736,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the Process Excellence tab content"
+  }, {
+    "name" : "package",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.82"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "32f8d376dccfa0fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632732176323,
+        "stop" : 1632732178209,
+        "duration" : 1886
+      }
+    }, {
+      "uid" : "647fe881db1eec4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632726462892,
+        "stop" : 1632726463300,
+        "duration" : 408
+      }
+    }, {
+      "uid" : "67f2e4366e9e8583",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632724624548,
+        "stop" : 1632724625023,
+        "duration" : 475
+      }
+    }, {
+      "uid" : "9aab8dbe689de4ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632723190967,
+        "stop" : 1632723192748,
+        "duration" : 1781
+      }
+    }, {
+      "uid" : "38a4ff5892317e4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632721204795,
+        "stop" : 1632721205380,
+        "duration" : 585
+      }
+    }, {
+      "uid" : "eab6ecde1c780708",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632720903428,
+        "stop" : 1632720903884,
+        "duration" : 456
+      }
+    }, {
+      "uid" : "bee0be9bc80d1f54",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632718991030,
+        "stop" : 1632718991441,
+        "duration" : 411
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "9d93ff331a24202d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1632732176323,
+          "stop" : 1632732178209,
+          "duration" : 1886
+        }
+      }, {
+        "uid" : "f1a5bf4b6161254",
+        "status" : "passed",
+        "time" : {
+          "start" : 1632726462892,
+          "stop" : 1632726463300,
+          "duration" : 408
+        }
+      }, {
+        "uid" : "daf498a3feb8f083",
+        "status" : "passed",
+        "time" : {
+          "start" : 1632724624548,
+          "stop" : 1632724625023,
+          "duration" : 475
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "7651b433fd3bb8bb.json",
+  "parameterValues" : [ "chrome-93.0.4577.82" ]
+}
