@@ -1,0 +1,192 @@
+{
+  "uid" : "f67b13d548a36496",
+  "name" : "Verify The Multiplier Effect tab content",
+  "fullName" : "Verify the Welcomepage content - test suite.Verify The Multiplier Effect tab content",
+  "historyId" : "bbd4915a5263403a038fe98b5f130e6",
+  "time" : {
+    "start" : 1632756960083,
+    "stop" : 1632756960863,
+    "duration" : 780
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Performed click operation on The Multiplier Effect",
+      "time" : {
+        "start" : 1632756960511,
+        "stop" : 1632756960511,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : what’s possible.",
+      "time" : {
+        "start" : 1632756960862,
+        "stop" : 1632756960862,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify The Multiplier Effect tab content"
+  }, {
+    "name" : "package",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.82"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4a45b81211b134c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632732172683,
+        "stop" : 1632732174651,
+        "duration" : 1968
+      }
+    }, {
+      "uid" : "ec4b04c0b7a8dfb2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632726462132,
+        "stop" : 1632726462560,
+        "duration" : 428
+      }
+    }, {
+      "uid" : "6b12457d39d4db9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632724623505,
+        "stop" : 1632724624099,
+        "duration" : 594
+      }
+    }, {
+      "uid" : "f9dfd54c527d368f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632723189317,
+        "stop" : 1632723190261,
+        "duration" : 944
+      }
+    }, {
+      "uid" : "ce6192516b9fe599",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632721203622,
+        "stop" : 1632721204302,
+        "duration" : 680
+      }
+    }, {
+      "uid" : "2a472042dd3ffa6b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632720902565,
+        "stop" : 1632720903019,
+        "duration" : 454
+      }
+    }, {
+      "uid" : "e868b7f48576c16f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632718990306,
+        "stop" : 1632718990681,
+        "duration" : 375
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "fc741f879f1e53ea",
+        "status" : "passed",
+        "time" : {
+          "start" : 1632732172683,
+          "stop" : 1632732174651,
+          "duration" : 1968
+        }
+      }, {
+        "uid" : "c1130aa05c487fc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1632726462132,
+          "stop" : 1632726462560,
+          "duration" : 428
+        }
+      }, {
+        "uid" : "84b8c8094b36938f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1632724623505,
+          "stop" : 1632724624099,
+          "duration" : 594
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "f67b13d548a36496.json",
+  "parameterValues" : [ "chrome-93.0.4577.82" ]
+}
