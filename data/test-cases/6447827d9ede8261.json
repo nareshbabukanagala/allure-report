@@ -1,0 +1,88 @@
+{
+  "uid" : "6447827d9ede8261",
+  "name" : "Verify Analytics x AI tab content",
+  "fullName" : "Verify the Welcomepage content - test suite.Verify Analytics x AI tab content",
+  "historyId" : "b04b90bd5da474e2b1419199f353711f",
+  "time" : {
+    "start" : 1635951985346,
+    "stop" : 1635952135591,
+    "duration" : 150245
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=95.0.4638.69)",
+  "statusTrace" : "#0 0x55817abd0f93 <unknown>\n                #1 0x55817a6ab908 <unknown>\n                #2 0x55817a6ae78c <unknown>\n                #3 0x55817a6ae586 <unknown>\n                #4 0x55817a6af142 <unknown>\n                #5 0x55817a712983 <unknown>\n                #6 0x55817a6fea82 <unknown>\n                #7 0x55817a711c91 <unknown>\n                #8 0x55817a6fe973 <unknown>\n                #9 0x55817a6d4df4 <unknown>\n                #10 0x55817a6d5de5 <unknown>\n                #11 0x55817ac002be <unknown>\n                #12 0x55817ac15ba0 <unknown>\n                #13 0x55817ac01215 <unknown>\n                #14 0x55817ac16fe8 <unknown>\n                #15 0x55817abf59db <unknown>\n                #16 0x55817ac32218 <unknown>\n                #17 0x55817ac32398 <unknown>\n                #18 0x55817ac4d6cd <unknown>\n                #19 0x7f5d5bcfb609 <unknown>\n                    at Browser.<anonymous> (/home/vsts/work/1/s/node_modules/@wdio/utils/build/shim.js:270:24)\n                    at Utility.waitAndFindElement (/home/vsts/work/1/s/lib/utils/Utility.js:46:17)\n                    at Utility.click (/home/vsts/work/1/s/lib/utils/Utility.js:50:28)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/test/welcome.spec.js:45:12)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=95.0.4638.69)",
+    "statusTrace" : "#0 0x55817abd0f93 <unknown>\n                #1 0x55817a6ab908 <unknown>\n                #2 0x55817a6ae78c <unknown>\n                #3 0x55817a6ae586 <unknown>\n                #4 0x55817a6af142 <unknown>\n                #5 0x55817a712983 <unknown>\n                #6 0x55817a6fea82 <unknown>\n                #7 0x55817a711c91 <unknown>\n                #8 0x55817a6fe973 <unknown>\n                #9 0x55817a6d4df4 <unknown>\n                #10 0x55817a6d5de5 <unknown>\n                #11 0x55817ac002be <unknown>\n                #12 0x55817ac15ba0 <unknown>\n                #13 0x55817ac01215 <unknown>\n                #14 0x55817ac16fe8 <unknown>\n                #15 0x55817abf59db <unknown>\n                #16 0x55817ac32218 <unknown>\n                #17 0x55817ac32398 <unknown>\n                #18 0x55817ac4d6cd <unknown>\n                #19 0x7f5d5bcfb609 <unknown>\n                    at Browser.<anonymous> (/home/vsts/work/1/s/node_modules/@wdio/utils/build/shim.js:270:24)\n                    at Utility.waitAndFindElement (/home/vsts/work/1/s/lib/utils/Utility.js:46:17)\n                    at Utility.click (/home/vsts/work/1/s/lib/utils/Utility.js:50:28)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/test/welcome.spec.js:45:12)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bec07b4785e0bcae",
+      "name" : "Screenshot",
+      "source" : "bec07b4785e0bcae.png",
+      "type" : "image/png",
+      "size" : 71319
+    }, {
+      "uid" : "f67daf7adc2a4a14",
+      "name" : "Screenshot",
+      "source" : "f67daf7adc2a4a14.png",
+      "type" : "image/png",
+      "size" : 71319
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Analytics x AI tab content"
+  }, {
+    "name" : "package",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-95.0.4638.69"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "6447827d9ede8261.json",
+  "parameterValues" : [ "chrome-95.0.4638.69" ]
+}

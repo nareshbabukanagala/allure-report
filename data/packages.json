@@ -4,7 +4,7 @@
     "name" : "Verify the Welcomepage content - test suite",
     "children" : [ {
       "name" : "Verify Humanizing Digital tab content",
-      "uid" : "bc5a7e4922eeee73",
+      "uid" : "5ec67fa75d752909",
       "parentUid" : "42c8b23388b6dfe4704492acef817071",
       "status" : "passed",
       "time" : {
@@ -17,7 +17,7 @@
       "parameters" : [ "chrome-93.0.4577.82" ]
     }, {
       "name" : "Verify Behind the Experience tab content",
-      "uid" : "79fded5b69c53811",
+      "uid" : "d32f0fffaee1ba36",
       "parentUid" : "42c8b23388b6dfe4704492acef817071",
       "status" : "passed",
       "time" : {
@@ -30,7 +30,7 @@
       "parameters" : [ "chrome-93.0.4577.82" ]
     }, {
       "name" : "Verify Our Technology tab content",
-      "uid" : "aa541bbe1b2549b0",
+      "uid" : "7d5f17ec27b0ce82",
       "parentUid" : "42c8b23388b6dfe4704492acef817071",
       "status" : "passed",
       "time" : {
@@ -43,7 +43,7 @@
       "parameters" : [ "chrome-93.0.4577.82" ]
     }, {
       "name" : "Verify The Customer tab content",
-      "uid" : "eb13581e317169ed",
+      "uid" : "be73be9a3410deca",
       "parentUid" : "42c8b23388b6dfe4704492acef817071",
       "status" : "passed",
       "time" : {
@@ -56,7 +56,7 @@
       "parameters" : [ "chrome-93.0.4577.82" ]
     }, {
       "name" : "Verify The Multiplier Effect tab content",
-      "uid" : "ad30280c8d654f17",
+      "uid" : "cdaa5c8677eb1189",
       "parentUid" : "42c8b23388b6dfe4704492acef817071",
       "status" : "passed",
       "time" : {
@@ -69,7 +69,7 @@
       "parameters" : [ "chrome-93.0.4577.82" ]
     }, {
       "name" : "Verify Analytics x AI tab content",
-      "uid" : "617aa15f07c16144",
+      "uid" : "43068c639cdfa8a9",
       "parentUid" : "42c8b23388b6dfe4704492acef817071",
       "status" : "passed",
       "time" : {
@@ -82,7 +82,7 @@
       "parameters" : [ "chrome-93.0.4577.82" ]
     }, {
       "name" : "Verify the Process Excellence tab content",
-      "uid" : "7651b433fd3bb8bb",
+      "uid" : "ef6e0e179e2d87db",
       "parentUid" : "42c8b23388b6dfe4704492acef817071",
       "status" : "passed",
       "time" : {
@@ -95,7 +95,7 @@
       "parameters" : [ "chrome-93.0.4577.82" ]
     }, {
       "name" : "Verify the Transformative Culture tab content",
-      "uid" : "2a58ac59c4159a4c",
+      "uid" : "72e518d23f9ed83d",
       "parentUid" : "42c8b23388b6dfe4704492acef817071",
       "status" : "failed",
       "time" : {
@@ -106,13 +106,117 @@
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-93.0.4577.82" ]
+    }, {
+      "name" : "Verify Humanizing Digital tab content",
+      "uid" : "1c9ff76b8d444ac8",
+      "parentUid" : "42c8b23388b6dfe4704492acef817071",
+      "status" : "broken",
+      "time" : {
+        "start" : 1635951079922,
+        "stop" : 1635951265323,
+        "duration" : 185401
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.69" ]
+    }, {
+      "name" : "Verify Behind the Experience tab content",
+      "uid" : "31b6a1d58977c74",
+      "parentUid" : "42c8b23388b6dfe4704492acef817071",
+      "status" : "broken",
+      "time" : {
+        "start" : 1635951265325,
+        "stop" : 1635951445329,
+        "duration" : 180004
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.69" ]
+    }, {
+      "name" : "Verify Our Technology tab content",
+      "uid" : "4b66e9b709630676",
+      "parentUid" : "42c8b23388b6dfe4704492acef817071",
+      "status" : "broken",
+      "time" : {
+        "start" : 1635951445331,
+        "stop" : 1635951625335,
+        "duration" : 180004
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.69" ]
+    }, {
+      "name" : "Verify The Customer tab content",
+      "uid" : "e0430b92e427bf21",
+      "parentUid" : "42c8b23388b6dfe4704492acef817071",
+      "status" : "broken",
+      "time" : {
+        "start" : 1635951625336,
+        "stop" : 1635951805339,
+        "duration" : 180003
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.69" ]
+    }, {
+      "name" : "Verify The Multiplier Effect tab content",
+      "uid" : "e258c3029c2eb5e9",
+      "parentUid" : "42c8b23388b6dfe4704492acef817071",
+      "status" : "broken",
+      "time" : {
+        "start" : 1635951805341,
+        "stop" : 1635951985345,
+        "duration" : 180004
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.69" ]
+    }, {
+      "name" : "Verify Analytics x AI tab content",
+      "uid" : "6447827d9ede8261",
+      "parentUid" : "42c8b23388b6dfe4704492acef817071",
+      "status" : "broken",
+      "time" : {
+        "start" : 1635951985346,
+        "stop" : 1635952135591,
+        "duration" : 150245
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.69" ]
+    }, {
+      "name" : "Verify the Process Excellence tab content",
+      "uid" : "dc2f94887ef7549a",
+      "parentUid" : "42c8b23388b6dfe4704492acef817071",
+      "status" : "broken",
+      "time" : {
+        "start" : 1635952135592,
+        "stop" : 1635952255918,
+        "duration" : 120326
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.69" ]
+    }, {
+      "name" : "Verify the Transformative Culture tab content",
+      "uid" : "5568e43fa47ad748",
+      "parentUid" : "42c8b23388b6dfe4704492acef817071",
+      "status" : "broken",
+      "time" : {
+        "start" : 1635952255919,
+        "stop" : 1635952435923,
+        "duration" : 180004
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.69" ]
     } ],
     "uid" : "42c8b23388b6dfe4704492acef817071"
   }, {
     "name" : "Careers portal - test suite",
     "children" : [ {
       "name" : "Navigate to Careers page",
-      "uid" : "7758edc41d39e79b",
+      "uid" : "eba2adf8825cd56a",
       "parentUid" : "9940bdb5b8ca7817ee2173ab148c454b",
       "status" : "passed",
       "time" : {
@@ -125,7 +229,7 @@
       "parameters" : [ "chrome-93.0.4577.82" ]
     }, {
       "name" : "Perform Search operation in careers portal",
-      "uid" : "455f0efdd9afa06a",
+      "uid" : "edb7fbe35a0cdc7b",
       "parentUid" : "9940bdb5b8ca7817ee2173ab148c454b",
       "status" : "passed",
       "time" : {
@@ -138,7 +242,7 @@
       "parameters" : [ "chrome-93.0.4577.82" ]
     }, {
       "name" : "Select first Job from results and apply",
-      "uid" : "af156d86fce780a3",
+      "uid" : "2cb32c30c83c15b7",
       "parentUid" : "9940bdb5b8ca7817ee2173ab148c454b",
       "status" : "passed",
       "time" : {
@@ -149,13 +253,52 @@
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-93.0.4577.82" ]
+    }, {
+      "name" : "Navigate to Careers page",
+      "uid" : "ef388cc231b3cbd9",
+      "parentUid" : "9940bdb5b8ca7817ee2173ab148c454b",
+      "status" : "broken",
+      "time" : {
+        "start" : 1635952448896,
+        "stop" : 1635952542938,
+        "duration" : 94042
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.69" ]
+    }, {
+      "name" : "Perform Search operation in careers portal",
+      "uid" : "3d171ad2efb55e5c",
+      "parentUid" : "9940bdb5b8ca7817ee2173ab148c454b",
+      "status" : "broken",
+      "time" : {
+        "start" : 1635952542938,
+        "stop" : 1635952722944,
+        "duration" : 180006
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.69" ]
+    }, {
+      "name" : "Select first Job from results and apply",
+      "uid" : "2533f8e191448a27",
+      "parentUid" : "9940bdb5b8ca7817ee2173ab148c454b",
+      "status" : "broken",
+      "time" : {
+        "start" : 1635952722945,
+        "stop" : 1635952843143,
+        "duration" : 120198
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.69" ]
     } ],
     "uid" : "9940bdb5b8ca7817ee2173ab148c454b"
   }, {
     "name" : "Contact Us - test suite",
     "children" : [ {
       "name" : "Navigate to contact us page",
-      "uid" : "2a5f9c6dc3663c02",
+      "uid" : "e0f30106c4f52a8d",
       "parentUid" : "8f956314aec7b1911c9a4decb3de895a",
       "status" : "passed",
       "time" : {
@@ -168,7 +311,7 @@
       "parameters" : [ "chrome-93.0.4577.82" ]
     }, {
       "name" : "Submit contact us form",
-      "uid" : "e6e0dcff39757881",
+      "uid" : "494e7e21d874275c",
       "parentUid" : "8f956314aec7b1911c9a4decb3de895a",
       "status" : "passed",
       "time" : {
@@ -181,7 +324,7 @@
       "parameters" : [ "chrome-93.0.4577.82" ]
     }, {
       "name" : "Navigate to contact us page",
-      "uid" : "496cf1f246674277",
+      "uid" : "42aafb3efe066921",
       "parentUid" : "8f956314aec7b1911c9a4decb3de895a",
       "status" : "passed",
       "time" : {
@@ -194,7 +337,7 @@
       "parameters" : [ "chrome-94.0.4606.61" ]
     }, {
       "name" : "Submit contact us form",
-      "uid" : "46c64204b390218e",
+      "uid" : "c52c3683ab9c33e0",
       "parentUid" : "8f956314aec7b1911c9a4decb3de895a",
       "status" : "passed",
       "time" : {
@@ -207,26 +350,26 @@
       "parameters" : [ "chrome-94.0.4606.61" ]
     }, {
       "name" : "Navigate to contact us page",
-      "uid" : "7385f9ffac76367b",
+      "uid" : "3ee5858a4672d3f2",
       "parentUid" : "8f956314aec7b1911c9a4decb3de895a",
       "status" : "passed",
       "time" : {
-        "start" : 1635950726452,
-        "stop" : 1635950732043,
-        "duration" : 5591
+        "start" : 1635952438898,
+        "stop" : 1635952443667,
+        "duration" : 4769
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-95.0.4638.69" ]
     }, {
       "name" : "Submit contact us form",
-      "uid" : "c66e87748789b45b",
+      "uid" : "ac89c99cbb84df1f",
       "parentUid" : "8f956314aec7b1911c9a4decb3de895a",
       "status" : "passed",
       "time" : {
-        "start" : 1635950732043,
-        "stop" : 1635950733610,
-        "duration" : 1567
+        "start" : 1635952443667,
+        "stop" : 1635952445020,
+        "duration" : 1353
       },
       "flaky" : false,
       "newFailed" : false,

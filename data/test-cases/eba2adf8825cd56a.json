@@ -1,0 +1,172 @@
+{
+  "uid" : "eba2adf8825cd56a",
+  "name" : "Navigate to Careers page",
+  "fullName" : "Careers portal - test suite.Navigate to Careers page",
+  "historyId" : "9eb5acd13853d55b98c5eaab53d8a3fa",
+  "time" : {
+    "start" : 1632757001269,
+    "stop" : 1632757031994,
+    "duration" : 30725
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Performed click operation on Careers",
+      "time" : {
+        "start" : 1632757008430,
+        "stop" : 1632757008430,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Switched to window for title : Explore Job Opportunities at Sutherland Global Services.",
+      "time" : {
+        "start" : 1632757031978,
+        "stop" : 1632757031978,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Current URL is  : https://jobs.sutherlandglobal.com/?lang=en.",
+      "time" : {
+        "start" : 1632757031989,
+        "stop" : 1632757031989,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Careers portal - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Careers portal - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Navigate to Careers page"
+  }, {
+    "name" : "package",
+    "value" : "Careers portal - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.82"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "74d40cce25cd23e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632732223237,
+        "stop" : 1632732255308,
+        "duration" : 32071
+      }
+    }, {
+      "uid" : "4057c2e17ada0709",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632724653828,
+        "stop" : 1632724682824,
+        "duration" : 28996
+      }
+    }, {
+      "uid" : "c09b73e4b0efd8cf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632723363977,
+        "stop" : 1632723398294,
+        "duration" : 34317
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "6ed3c1722e8c7328",
+        "status" : "passed",
+        "time" : {
+          "start" : 1632732223237,
+          "stop" : 1632732255308,
+          "duration" : 32071
+        }
+      }, {
+        "uid" : "f2507136baf51b81",
+        "status" : "passed",
+        "time" : {
+          "start" : 1632724653828,
+          "stop" : 1632724682824,
+          "duration" : 28996
+        }
+      }, {
+        "uid" : "d59477fdcb23d206",
+        "status" : "passed",
+        "time" : {
+          "start" : 1632724653828,
+          "stop" : 1632724682824,
+          "duration" : 28996
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "eba2adf8825cd56a.json",
+  "parameterValues" : [ "chrome-93.0.4577.82" ]
+}

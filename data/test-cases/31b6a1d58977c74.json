@@ -1,0 +1,82 @@
+{
+  "uid" : "31b6a1d58977c74",
+  "name" : "Verify Behind the Experience tab content",
+  "fullName" : "Verify the Welcomepage content - test suite.Verify Behind the Experience tab content",
+  "historyId" : "bdb9c80027177b6f76fc7e311ae4f515",
+  "time" : {
+    "start" : 1635951265325,
+    "stop" : 1635951445329,
+    "duration" : 180004
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Timeout of 180000ms exceeded. The execution in the test \"Verify the Welcomepage content - test suite Verify Behind the Experience tab content\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (/home/vsts/work/1/s/lib/test/welcome.spec.js)",
+  "statusTrace" : "Error: Timeout of 180000ms exceeded. The execution in the test \"Verify the Welcomepage content - test suite Verify Behind the Experience tab content\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (/home/vsts/work/1/s/lib/test/welcome.spec.js)\n                    at createTimeoutError (/home/vsts/work/1/s/node_modules/mocha/lib/errors.js:498:15)\n                    at Test.Runnable._timeoutError (/home/vsts/work/1/s/node_modules/mocha/lib/runnable.js:431:10)\n                    at Timeout.<anonymous> (/home/vsts/work/1/s/node_modules/mocha/lib/runnable.js:246:24)\n                    at listOnTimeout (internal/timers.js:554:17)\n                    at processTimers (internal/timers.js:497:7)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Timeout of 180000ms exceeded. The execution in the test \"Verify the Welcomepage content - test suite Verify Behind the Experience tab content\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (/home/vsts/work/1/s/lib/test/welcome.spec.js)",
+    "statusTrace" : "Error: Timeout of 180000ms exceeded. The execution in the test \"Verify the Welcomepage content - test suite Verify Behind the Experience tab content\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (/home/vsts/work/1/s/lib/test/welcome.spec.js)\n                    at createTimeoutError (/home/vsts/work/1/s/node_modules/mocha/lib/errors.js:498:15)\n                    at Test.Runnable._timeoutError (/home/vsts/work/1/s/node_modules/mocha/lib/runnable.js:431:10)\n                    at Timeout.<anonymous> (/home/vsts/work/1/s/node_modules/mocha/lib/runnable.js:246:24)\n                    at listOnTimeout (internal/timers.js:554:17)\n                    at processTimers (internal/timers.js:497:7)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "63c8b87a3ef9c377",
+      "name" : "Screenshot",
+      "source" : "63c8b87a3ef9c377.png",
+      "type" : "image/png",
+      "size" : 71319
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Behind the Experience tab content"
+  }, {
+    "name" : "package",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-95.0.4638.69"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "31b6a1d58977c74.json",
+  "parameterValues" : [ "chrome-95.0.4638.69" ]
+}

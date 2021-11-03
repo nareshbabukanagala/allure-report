@@ -1,0 +1,192 @@
+{
+  "uid" : "be73be9a3410deca",
+  "name" : "Verify The Customer tab content",
+  "fullName" : "Verify the Welcomepage content - test suite.Verify The Customer tab content",
+  "historyId" : "d5aaa2babd356a513becb910127aee7a",
+  "time" : {
+    "start" : 1632756958659,
+    "stop" : 1632756960083,
+    "duration" : 1424
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Performed click operation on The Customer",
+      "time" : {
+        "start" : 1632756959144,
+        "stop" : 1632756959144,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Your customer is our customer.",
+      "time" : {
+        "start" : 1632756960081,
+        "stop" : 1632756960081,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify The Customer tab content"
+  }, {
+    "name" : "package",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.82"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "77de3577a12d0d13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632732170137,
+        "stop" : 1632732172683,
+        "duration" : 2546
+      }
+    }, {
+      "uid" : "881851651722c0dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632726460698,
+        "stop" : 1632726462132,
+        "duration" : 1434
+      }
+    }, {
+      "uid" : "7face06c25a0926",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632724622278,
+        "stop" : 1632724623505,
+        "duration" : 1227
+      }
+    }, {
+      "uid" : "1088f1fa4071d2f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632723187819,
+        "stop" : 1632723189316,
+        "duration" : 1497
+      }
+    }, {
+      "uid" : "d4f059e5303de333",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632721202183,
+        "stop" : 1632721203621,
+        "duration" : 1438
+      }
+    }, {
+      "uid" : "2a36c18d4aeef48d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632720900759,
+        "stop" : 1632720902565,
+        "duration" : 1806
+      }
+    }, {
+      "uid" : "7e68d5e44ab1cd61",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632718988787,
+        "stop" : 1632718990306,
+        "duration" : 1519
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "f2f831c6e56c42fa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1632732170137,
+          "stop" : 1632732172683,
+          "duration" : 2546
+        }
+      }, {
+        "uid" : "517c416941f76ad8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1632726460698,
+          "stop" : 1632726462132,
+          "duration" : 1434
+        }
+      }, {
+        "uid" : "f7a42225ec878ef6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1632724622278,
+          "stop" : 1632724623505,
+          "duration" : 1227
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "be73be9a3410deca.json",
+  "parameterValues" : [ "chrome-93.0.4577.82" ]
+}

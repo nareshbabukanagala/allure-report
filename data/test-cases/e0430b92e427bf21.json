@@ -1,0 +1,82 @@
+{
+  "uid" : "e0430b92e427bf21",
+  "name" : "Verify The Customer tab content",
+  "fullName" : "Verify the Welcomepage content - test suite.Verify The Customer tab content",
+  "historyId" : "2ddc5b0f765fe64b0fdf6015db2058ca",
+  "time" : {
+    "start" : 1635951625336,
+    "stop" : 1635951805339,
+    "duration" : 180003
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Timeout of 180000ms exceeded. The execution in the test \"Verify the Welcomepage content - test suite Verify The Customer tab content\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (/home/vsts/work/1/s/lib/test/welcome.spec.js)",
+  "statusTrace" : "Error: Timeout of 180000ms exceeded. The execution in the test \"Verify the Welcomepage content - test suite Verify The Customer tab content\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (/home/vsts/work/1/s/lib/test/welcome.spec.js)\n                    at createTimeoutError (/home/vsts/work/1/s/node_modules/mocha/lib/errors.js:498:15)\n                    at Test.Runnable._timeoutError (/home/vsts/work/1/s/node_modules/mocha/lib/runnable.js:431:10)\n                    at Timeout.<anonymous> (/home/vsts/work/1/s/node_modules/mocha/lib/runnable.js:246:24)\n                    at listOnTimeout (internal/timers.js:554:17)\n                    at processTimers (internal/timers.js:497:7)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Timeout of 180000ms exceeded. The execution in the test \"Verify the Welcomepage content - test suite Verify The Customer tab content\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (/home/vsts/work/1/s/lib/test/welcome.spec.js)",
+    "statusTrace" : "Error: Timeout of 180000ms exceeded. The execution in the test \"Verify the Welcomepage content - test suite Verify The Customer tab content\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (/home/vsts/work/1/s/lib/test/welcome.spec.js)\n                    at createTimeoutError (/home/vsts/work/1/s/node_modules/mocha/lib/errors.js:498:15)\n                    at Test.Runnable._timeoutError (/home/vsts/work/1/s/node_modules/mocha/lib/runnable.js:431:10)\n                    at Timeout.<anonymous> (/home/vsts/work/1/s/node_modules/mocha/lib/runnable.js:246:24)\n                    at listOnTimeout (internal/timers.js:554:17)\n                    at processTimers (internal/timers.js:497:7)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "eff3c0c518851bd8",
+      "name" : "Screenshot",
+      "source" : "eff3c0c518851bd8.png",
+      "type" : "image/png",
+      "size" : 71319
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify The Customer tab content"
+  }, {
+    "name" : "package",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-95.0.4638.69"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "e0430b92e427bf21.json",
+  "parameterValues" : [ "chrome-95.0.4638.69" ]
+}

@@ -1,0 +1,210 @@
+{
+  "uid" : "72e518d23f9ed83d",
+  "name" : "Verify the Transformative Culture tab content",
+  "fullName" : "Verify the Welcomepage content - test suite.Verify the Transformative Culture tab content",
+  "historyId" : "c8bba5b6b09d644d3a44b9574ddaea17",
+  "time" : {
+    "start" : 1632756962737,
+    "stop" : 1632756965657,
+    "duration" : 2920
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expected 'We are One Sutherland.' to include '=======We are One Sutherland.'      \n                      actual expected\n                      \n                      'We are One Sutherland.'undefined\n                      ",
+  "statusTrace" : "AssertionError: expected 'We are One Sutherland.' to include '=======We are One Sutherland.'\n                    at Context.<anonymous> (E:\\webdriverio-fw\\lib\\test\\welcome.spec.js:56:90)\n                    at Context.executeSync (E:\\webdriverio-fw\\node_modules\\@wdio\\sync\\build\\index.js:38:22)\n                    at E:\\webdriverio-fw\\node_modules\\@wdio\\sync\\build\\index.js:69:68",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "expected 'We are One Sutherland.' to include '=======We are One Sutherland.'      \n                      actual expected\n                      \n                      'We are One Sutherland.'undefined\n                      ",
+    "statusTrace" : "AssertionError: expected 'We are One Sutherland.' to include '=======We are One Sutherland.'\n                    at Context.<anonymous> (E:\\webdriverio-fw\\lib\\test\\welcome.spec.js:56:90)\n                    at Context.executeSync (E:\\webdriverio-fw\\node_modules\\@wdio\\sync\\build\\index.js:38:22)\n                    at E:\\webdriverio-fw\\node_modules\\@wdio\\sync\\build\\index.js:69:68",
+    "steps" : [ {
+      "name" : "Performed click operation on Transformative Culture",
+      "time" : {
+        "start" : 1632756963778,
+        "stop" : 1632756963778,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : We are One Sutherland.",
+      "time" : {
+        "start" : 1632756964164,
+        "stop" : 1632756964164,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "5f3008187f9565e0",
+      "name" : "Screenshot",
+      "source" : "5f3008187f9565e0.png",
+      "type" : "image/png",
+      "size" : 1511208
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the Transformative Culture tab content"
+  }, {
+    "name" : "package",
+    "value" : "Verify the Welcomepage content - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.82"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "71fbf5210f716e1e",
+      "status" : "failed",
+      "statusDetails" : "expected 'We are One Sutherland.' to include '=======We are One Sutherland.'      \n                      actual expected\n                      \n                      'We are One Sutherland.'undefined\n                      ",
+      "time" : {
+        "start" : 1632732178209,
+        "stop" : 1632732180856,
+        "duration" : 2647
+      }
+    }, {
+      "uid" : "154272b785ccef77",
+      "status" : "failed",
+      "statusDetails" : "expected 'We are One Sutherland.' to include '====We are One Sutherland.'      \n                      actual expected\n                      \n                      'We are One Sutherland.'undefined\n                      ",
+      "time" : {
+        "start" : 1632726463300,
+        "stop" : 1632726465281,
+        "duration" : 1981
+      }
+    }, {
+      "uid" : "9dd031cb83f4c7c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632724625023,
+        "stop" : 1632724625939,
+        "duration" : 916
+      }
+    }, {
+      "uid" : "e20f8a65ad24bdaa",
+      "status" : "failed",
+      "statusDetails" : "expected 'We are One Sutherland.' to include '====We are One Sutherland.'      \n                      actual expected\n                      \n                      'We are One Sutherland.'undefined\n                      ",
+      "time" : {
+        "start" : 1632723192748,
+        "stop" : 1632723195264,
+        "duration" : 2516
+      }
+    }, {
+      "uid" : "7fdbac5e14888c27",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632721205380,
+        "stop" : 1632721206409,
+        "duration" : 1029
+      }
+    }, {
+      "uid" : "7ecbfec5224cfb94",
+      "status" : "failed",
+      "statusDetails" : "expected 'We are One Sutherland.' to include '=========We are One Sutherland.'      \n                      actual expected\n                      \n                      'We are One Sutherland.'undefined\n                      ",
+      "time" : {
+        "start" : 1632720903884,
+        "stop" : 1632720906600,
+        "duration" : 2716
+      }
+    }, {
+      "uid" : "bda9786f3f95c927",
+      "status" : "failed",
+      "statusDetails" : "expected 'We are One Sutherland.' to include '=========We are One Sutherland.'      \n                      actual expected\n                      \n                      'We are One Sutherland.'undefined\n                      ",
+      "time" : {
+        "start" : 1632718991441,
+        "stop" : 1632718992563,
+        "duration" : 1122
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 3,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "e2d0b98e5f906bc2",
+        "status" : "failed",
+        "statusDetails" : "expected 'We are One Sutherland.' to include '=======We are One Sutherland.'      \n                      actual expected\n                      \n                      'We are One Sutherland.'undefined\n                      ",
+        "time" : {
+          "start" : 1632732178209,
+          "stop" : 1632732180856,
+          "duration" : 2647
+        }
+      }, {
+        "uid" : "d155072dfe527d10",
+        "status" : "failed",
+        "statusDetails" : "expected 'We are One Sutherland.' to include '====We are One Sutherland.'      \n                      actual expected\n                      \n                      'We are One Sutherland.'undefined\n                      ",
+        "time" : {
+          "start" : 1632726463300,
+          "stop" : 1632726465281,
+          "duration" : 1981
+        }
+      }, {
+        "uid" : "de73ca02e6724b7f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1632724625023,
+          "stop" : 1632724625939,
+          "duration" : 916
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "72e518d23f9ed83d.json",
+  "parameterValues" : [ "chrome-93.0.4577.82" ]
+}

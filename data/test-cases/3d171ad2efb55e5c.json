@@ -1,0 +1,67 @@
+{
+  "uid" : "3d171ad2efb55e5c",
+  "name" : "Perform Search operation in careers portal",
+  "fullName" : "Careers portal - test suite.Perform Search operation in careers portal",
+  "historyId" : "f1894a6e98531627daa81b894aa0b19d",
+  "time" : {
+    "start" : 1635952542938,
+    "stop" : 1635952722944,
+    "duration" : 180006
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Timeout of 180000ms exceeded. The execution in the test \"Careers portal - test suite Perform Search operation in careers portal\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (/home/vsts/work/1/s/lib/test/careers.spec.js)",
+  "statusTrace" : "Error: Timeout of 180000ms exceeded. The execution in the test \"Careers portal - test suite Perform Search operation in careers portal\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (/home/vsts/work/1/s/lib/test/careers.spec.js)\n                    at createTimeoutError (/home/vsts/work/1/s/node_modules/mocha/lib/errors.js:498:15)\n                    at Test.Runnable._timeoutError (/home/vsts/work/1/s/node_modules/mocha/lib/runnable.js:431:10)\n                    at Timeout.<anonymous> (/home/vsts/work/1/s/node_modules/mocha/lib/runnable.js:246:24)\n                    at listOnTimeout (internal/timers.js:554:17)\n                    at processTimers (internal/timers.js:497:7)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Careers portal - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Careers portal - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Perform Search operation in careers portal"
+  }, {
+    "name" : "package",
+    "value" : "Careers portal - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-95.0.4638.69"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "3d171ad2efb55e5c.json",
+  "parameterValues" : [ "chrome-95.0.4638.69" ]
+}

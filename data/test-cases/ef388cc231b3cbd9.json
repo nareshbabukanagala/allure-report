@@ -1,0 +1,82 @@
+{
+  "uid" : "ef388cc231b3cbd9",
+  "name" : "Navigate to Careers page",
+  "fullName" : "Careers portal - test suite.Navigate to Careers page",
+  "historyId" : "97a6c999009bced9dae77ed70bdbdf1a",
+  "time" : {
+    "start" : 1635952448896,
+    "stop" : 1635952542938,
+    "duration" : 94042
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=95.0.4638.69)",
+  "statusTrace" : "#0 0x558f51ba7f93 <unknown>\n                #1 0x558f51682908 <unknown>\n                #2 0x558f5168578c <unknown>\n                #3 0x558f51685586 <unknown>\n                #4 0x558f51686142 <unknown>\n                #5 0x558f516e9983 <unknown>\n                #6 0x558f516d5a82 <unknown>\n                #7 0x558f516e8c91 <unknown>\n                #8 0x558f516d5973 <unknown>\n                #9 0x558f516abdf4 <unknown>\n                #10 0x558f516acde5 <unknown>\n                #11 0x558f51bd72be <unknown>\n                #12 0x558f51becba0 <unknown>\n                #13 0x558f51bd8215 <unknown>\n                #14 0x558f51bedfe8 <unknown>\n                #15 0x558f51bcc9db <unknown>\n                #16 0x558f51c09218 <unknown>\n                #17 0x558f51c09398 <unknown>\n                #18 0x558f51c246cd <unknown>\n                #19 0x7f1c8766a609 <unknown>\n                    at Browser.<anonymous> (/home/vsts/work/1/s/node_modules/@wdio/utils/build/shim.js:270:24)\n                    at Utility.waitAndFindElement (/home/vsts/work/1/s/lib/utils/Utility.js:46:17)\n                    at Utility.click (/home/vsts/work/1/s/lib/utils/Utility.js:50:28)\n                    at Header.clickOnCareers (/home/vsts/work/1/s/lib/pages/header.js:20:12)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/test/careers.spec.js:26:16)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=95.0.4638.69)",
+    "statusTrace" : "#0 0x558f51ba7f93 <unknown>\n                #1 0x558f51682908 <unknown>\n                #2 0x558f5168578c <unknown>\n                #3 0x558f51685586 <unknown>\n                #4 0x558f51686142 <unknown>\n                #5 0x558f516e9983 <unknown>\n                #6 0x558f516d5a82 <unknown>\n                #7 0x558f516e8c91 <unknown>\n                #8 0x558f516d5973 <unknown>\n                #9 0x558f516abdf4 <unknown>\n                #10 0x558f516acde5 <unknown>\n                #11 0x558f51bd72be <unknown>\n                #12 0x558f51becba0 <unknown>\n                #13 0x558f51bd8215 <unknown>\n                #14 0x558f51bedfe8 <unknown>\n                #15 0x558f51bcc9db <unknown>\n                #16 0x558f51c09218 <unknown>\n                #17 0x558f51c09398 <unknown>\n                #18 0x558f51c246cd <unknown>\n                #19 0x7f1c8766a609 <unknown>\n                    at Browser.<anonymous> (/home/vsts/work/1/s/node_modules/@wdio/utils/build/shim.js:270:24)\n                    at Utility.waitAndFindElement (/home/vsts/work/1/s/lib/utils/Utility.js:46:17)\n                    at Utility.click (/home/vsts/work/1/s/lib/utils/Utility.js:50:28)\n                    at Header.clickOnCareers (/home/vsts/work/1/s/lib/pages/header.js:20:12)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/test/careers.spec.js:26:16)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1aced51fd27c36b1",
+      "name" : "Screenshot",
+      "source" : "1aced51fd27c36b1.png",
+      "type" : "image/png",
+      "size" : 71319
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Careers portal - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Careers portal - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Navigate to Careers page"
+  }, {
+    "name" : "package",
+    "value" : "Careers portal - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-95.0.4638.69"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "ef388cc231b3cbd9.json",
+  "parameterValues" : [ "chrome-95.0.4638.69" ]
+}
